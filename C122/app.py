@@ -1,7 +1,7 @@
 import numpy as np
 import seaborn as sns
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split as spl
 from sklearn.linear_model import LogisticRegression as lr
 from sklearn.metrics import accuracy_score as ac 
